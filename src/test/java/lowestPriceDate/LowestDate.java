@@ -46,7 +46,7 @@ for(int i = 0;i<minPriceDates.size();i++) {
 	System.out.println(minPriceDates.get(i));
 }
 
-	driver.close();
+	
 	driver.quit();
 	}
 	
